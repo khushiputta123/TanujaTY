@@ -6,6 +6,7 @@ public class Amazon {
 	{
 		
 		System.out.println("Welcome to Amazon");
+	
 
 	}
 	//huygkj
